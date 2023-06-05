@@ -1,5 +1,5 @@
 # Import the ASP.NET Core into the container
-FROM mcr.microsoft.com/dotnet/core/aspnet:2.1
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
 
 # TCP Port where the container will be listening
 EXPOSE 80
