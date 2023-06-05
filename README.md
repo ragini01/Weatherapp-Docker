@@ -17,3 +17,5 @@ This application is created using ASP.NET Core framework, an API Gateway KONG an
 
 ## Overall assumptions/findings to develop this application
 
+## Notes
+I am facing issues in the unit test files and currently trying to fix them, so please run and access the application by excluding WeatherForecastApp/Tests folder.
